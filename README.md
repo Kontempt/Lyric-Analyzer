@@ -1,2 +1,3 @@
 # Lyric-Analyzer
-An attempt at creation of a tool that can go through lyrics in a .txt file and return various parameters such as vocabulary use, line length among others, that will be added with times
+An attempt at creation of a tool that can go through lyrics in a .txt file and return various parameters such as vocabulary use, line length among others, that will be added with time.
+Not sure whethet to upload as i go or wait for the 'almost finished' outcome.
